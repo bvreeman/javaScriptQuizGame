@@ -1,0 +1,27 @@
+{
+  "name": "javascriptquizgame",
+  "version": "1.0.0",
+  "description": "Quiz games that I made",
+  "main": "javaScript.js",
+  "dependencies": {
+    "beautify": "0.0.8",
+    "browser-sync": "^2.23.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "html-beautify": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvreeman/javaScriptQuizGame.git"
+  },
+  "author": "Brandon Vreeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bvreeman/javaScriptQuizGame/issues"
+  },
+  "homepage": "https://github.com/bvreeman/javaScriptQuizGame#readme"
+}
